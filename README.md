@@ -42,7 +42,7 @@
 
 | Phase | Time | Format |
 |---|---|---|
-| Concept walkthrough | ~90 min | Instructor uses the [**interactive key-concepts walkthrough →**](https://flexfengfeng.github.io/dsai-m3-l07-learner/) |
+| Concept walkthrough | ~90 min | Instructor uses the [**interactive key-concepts walkthrough →**](https://su-ntu-ctp.github.io/6m-data-3.7-Neural-Networks-Deep-Learning/) |
 | Hands-on code-alongs | ~90 min | Three notebooks (~30 min each) |
 | (Self-study after class) | self-paced | Each notebook has 🟡 Extension + the assignment |
 
@@ -62,7 +62,7 @@ You'll run `01_monday_morning.ipynb` to see the customer-session data + watch a 
 
 **Short reference & review →** [**lesson.md**](./lesson.md) (overview, key takeaways, training-run checklist, 9-question review, L08→L10 course map)
 
-**Interactive walkthrough →** [**Key Concepts — interactive page**](https://flexfengfeng.github.io/dsai-m3-l07-learner/) (the visual walkthrough used in class — revisit any time)
+**Interactive walkthrough →** [**Key Concepts — interactive page**](https://su-ntu-ctp.github.io/6m-data-3.7-Neural-Networks-Deep-Learning/) (the visual walkthrough used in class — revisit any time)
 
 **Notebooks — run in order:**
 
